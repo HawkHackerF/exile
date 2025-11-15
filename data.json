@@ -1,32 +1,26 @@
 [
   {
     "name": "Encrypted Communication Guide",
-    "url": "https://example.com/guide.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=Guide"
+    "url": "https://example.com/guide.pdf"
   },
   {
     "name": "Secure Shell Manual",
-    "url": "https://example.com/ssh_manual.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=SSH"
+    "url": "https://example.com/ssh_manual.pdf"
   },
   {
     "name": "Network Anonymity Tools",
-    "url": "https://example.com/anon_tools.zip",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=Anon"
+    "url": "https://example.com/anon_tools.zip"
   },
   {
     "name": "Darknet Markets Overview",
-    "url": "https://example.com/darknet_info.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=Markets"
+    "url": "https://example.com/darknet_info.pdf"
   },
   {
     "name": "Tor Browser Setup",
-    "url": "https://example.com/tor_setup.exe",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=Tor"
+    "url": "https://example.com/tor_setup.exe"
   },
   {
     "name": "PGP Encryption Guide",
-    "url": "https://example.com/pgp_guide.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=PGP"
+    "url": "https://example.com/pgp_guide.pdf"
   }
 ]
