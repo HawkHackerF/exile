@@ -1,12 +1,6 @@
-[
-  {
-    "name": "Encrypted Communication Guide",
-    "url": "https://example.com/guide.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=Guide"
-  },
-  {
-    "name": "Secure Shell Manual",
-    "url": "https://example.com/ssh_manual.pdf",
-    "image": "https://placehold.co/300/0a0a0a/00ff41?text=SSH"
-  }
-]
+  [
+    {
+      "name": "Encrypted Communication Guide",
+      "url": "https://example.com/guide.pdf"
+    }
+  ]
